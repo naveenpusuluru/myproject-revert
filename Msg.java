@@ -1,9 +1,6 @@
-public class Msg {
-	Public static void main(string[] args){
-		int a=10, int b=2;
-		system.out.println("Addition is:'+(a+b));
-	System.out.println("Hello World!");
- 	System.out.println("I am learning Java.");
-	System.out.println("I am learning Devops.");
-	System.out.println("I am running it through Jenkins");
+public class HelloWorld {
+    public static void main(String[] args) {
+        // This line prints the message to the console
+        System.out.println("Hello, World!");
+    }
 }
