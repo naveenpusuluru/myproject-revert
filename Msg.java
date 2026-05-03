@@ -4,4 +4,5 @@ public class Msg {
 		system.out.println("Addition is:'+(a+b));
 	System.out.println("Hello World!");
  	System.out.println("I am learning Java.");
+	System.out.println("I am learning Devops.");
 }
